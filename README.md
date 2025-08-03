@@ -6,9 +6,9 @@ A user-friendly and modern chatbot UI built using Streamlit and Dialogflow Messe
 
 ## 💡 Features
 
-- 🤖 Dialogflow CX integration for intelligent conversation
+- 🤖 Dialogflow CX integration for intelligent conversation  
 - 💬 Real-time chat interface using Streamlit
-- 🖤 Dark mode layout for better UI/UX
+- 🖤 Dark mode layout for better UI/UX  
 - 🧠 Responds to custom intents from your own Dialogflow agent
 - 🌐 Deployable to Streamlit Cloud or local server
 
@@ -47,21 +47,22 @@ Shopsmart_Chatbot/
 
 ### 🛠️ Setup Instructions
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/Arkya-Sanyal-007/Future-ML-03.git
-cd Future-ML-03
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/Arkya-Sanyal-007/Shopsmart_Chatbot.git
+    cd Shopsmart_Chatbot
+    ```
 
-# 2. Install dependencies
-pip install -r requirements.txt
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-# 3. Run the Streamlit app
-streamlit run app.py
-
-# 4. Deploy
-Once the app is running, it will open in your browser at http://localhost:8501.
-```
-
+3. Run the Streamlit app:
+    ```bash
+    streamlit run app.py
+    ```
+    
 ---
 
 # 🧠 Dialogflow Integration
@@ -84,11 +85,11 @@ Edit
 
 # 💡 Use Cases:
 
--🛍️ Order status inquiries
--🔁 Return/refund process guidance
--📦 Delivery time/status updates
--🧾 Invoice and billing queries
--🧠 General product support
+- 🛍️ Order status inquiries
+- 🔁 Return/refund process guidance
+- 📦 Delivery time/status updates
+- 🧾 Invoice and billing queries
+- 🧠 General product support
 
 ---
 
