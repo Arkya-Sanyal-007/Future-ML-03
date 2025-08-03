@@ -49,8 +49,8 @@ Shopsmart_Chatbot/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Arkya-Sanyal-007/Shopsmart_Chatbot.git
-cd Shopsmart_Chatbot
+git clone https://github.com/Arkya-Sanyal-007/Future-ML-03.git
+cd Future-ML-03
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -99,13 +99,15 @@ Made with ❤️ by Arkya Sanyal
 
 ---
 
+# ⭐ Support
+
+If you like this project, give it a ⭐ and share it with your peers!
+Feel free to fork the repo, suggest improvements, or submit PRs. 
+PRs and suggestions are always welcome 🙌
+
+---
+
 # 📄 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
-
----
-
-# ⭐ Support
-If you like this project, give it a ⭐ and share it with your peers!
-PRs and suggestions are always welcome 🙌
