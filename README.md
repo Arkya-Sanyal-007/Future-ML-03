@@ -37,7 +37,7 @@ Shopsmart_Chatbot/
 
 ## 🚀 Getting Started
 
-### 🧩 Requirements
+### 🧩 Prerequisites
 
 - Python 3.8+
 - A Dialogflow CX Agent
