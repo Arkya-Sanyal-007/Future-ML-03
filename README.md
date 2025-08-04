@@ -20,10 +20,10 @@ A user-friendly and modern chatbot UI built using Streamlit and Dialogflow Messe
 Shopsmart_Chatbot/
 │
 ├── .devcontainer
-│    └──devcontainer.json         # Google cloud console .json file
-├── app.py                        # Streamlit app
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project documentation
+│       └──devcontainer.json         # Google cloud console .json file
+├── app.py                           # Streamlit app
+├── requirements.txt                 # Python dependencies
+└── README.md                        # Project documentation
 ```
 
 ---
