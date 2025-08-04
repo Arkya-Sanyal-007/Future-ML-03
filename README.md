@@ -32,10 +32,9 @@ Shopsmart_Chatbot/
 
 <div align="center">
 
-    [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://future-ml-03-kjqza3jmbcjcyw2sabaakg.streamlit.app/#879eca81)
+ [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://future-ml-03-kjqza3jmbcjcyw2sabaakg.streamlit.app/#879eca81)
 
 </div>
-
 
 ---
 
