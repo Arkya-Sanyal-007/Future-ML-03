@@ -71,7 +71,7 @@ Shopsmart_Chatbot/
     
 ---
 
-# 🧠 Dialogflow Integration
+## 🧠 Dialogflow Integration
 
 In your app.py, replace the agent-id with your actual Dialogflow CX agent ID:
 
@@ -89,7 +89,7 @@ Edit
 
 ---
 
-# 💡 Use Cases
+## 💡 Use Cases
 
 - 🛍️ Order status inquiries
 - 🔁 Return/refund process guidance
@@ -99,14 +99,14 @@ Edit
 
 ---
 
-# 🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Made with ❤️ by Arkya Sanyal
 📧 Email: arkyasanyal03@gmail.com
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ and share it with your peers!
 Feel free to fork the repo, suggest improvements, or submit PRs. 
@@ -114,7 +114,7 @@ PRs and suggestions are always welcome 🙌
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
