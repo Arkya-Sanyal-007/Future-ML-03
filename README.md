@@ -19,19 +19,23 @@ A user-friendly and modern chatbot UI built using Streamlit and Dialogflow Messe
 ```bash
 Shopsmart_Chatbot/
 │
-├── app.py                  # Streamlit app
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├── .devcontainer
+│    └──devcontainer.json         # Google cloud console .json file
+├── app.py                        # Streamlit app
+├── requirements.txt              # Python dependencies
+└── README.md                     # Project documentation
 ```
 
 ---
 
-## 📸 Preview
+## 🌐 Live Demo:
 
 <div align="center">
 
-    ![ShopSmart Demo](https://github.com/Arkya-Sanyal-007/Future-ML-03/assets/your-image-demo-link.gif)
+    [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://future-ml-03-kjqza3jmbcjcyw2sabaakg.streamlit.app/#879eca81)
+
 </div>
+
 
 ---
 
