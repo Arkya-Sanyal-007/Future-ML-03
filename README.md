@@ -2,6 +2,8 @@
 
 A user-friendly and modern chatbot UI built using Streamlit and Dialogflow Messenger. This app provides automated support for e-commerce customers.
 
+This is the 3rd task of my internship as a Machine Learning intern.
+
 ---
 
 ## 💡 Features
@@ -21,6 +23,7 @@ Shopsmart_Chatbot/
 │
 ├── .devcontainer
 │       └──devcontainer.json         # Google cloud console .json file
+├── Streamlit_demo                   # Screenshot of the live app
 ├── app.py                           # Streamlit app
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
