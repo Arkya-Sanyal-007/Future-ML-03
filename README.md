@@ -31,7 +31,7 @@ Shopsmart_Chatbot/
 
 ---
 
-## 🌐 Live Demo:
+## 🌐 Live Demo
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Edit
 
 ---
 
-# 💡 Use Cases:
+# 💡 Use Cases
 
 - 🛍️ Order status inquiries
 - 🔁 Return/refund process guidance
