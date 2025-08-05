@@ -23,7 +23,7 @@ Shopsmart_Chatbot/
 │
 ├── .devcontainer
 │       └──devcontainer.json         # Google cloud console .json file
-├── Streamlit_demo                   # Screenshot of the live app
+├── Streamlit_demo.png               # Screenshot of the live app
 ├── app.py                           # Streamlit app
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
